@@ -98,4 +98,7 @@ def main():
     brute_force_demo(target_password)
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("\n[!] Exiting the tool...")
