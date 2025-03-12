@@ -16,4 +16,4 @@ This tool is designed for educational purposes to help users understand website 
    pip install -r requirements.txt
 4. Run The Tool
 ```bash
-  python web-admin.py
+  python web-find.py
